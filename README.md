@@ -1,6 +1,6 @@
 # ☁️ Modular Azure Landing Zone Terraform Infrastructure as Code (IaC)
 
-[![CI](https://github.com/vaibhavmahna/terraform-azure-landing-zone-blueprint/actions/workflows/ci.yml/badge.svg)](https://github.com/vaibhavmahna/terraform-azure-landing-zone-blueprint/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/vaibhavmahna/terraform-azure-landing-zone-blueprint/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=CI)](https://github.com/vaibhavmahna/terraform-azure-landing-zone-blueprint/actions/workflows/ci.yml)
 [![Terraform](https://img.shields.io/badge/Terraform_v1.5+-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 [![Security](https://img.shields.io/badge/Security-Private_Endpoints-004085?style=for-the-badge&logo=shield&logoColor=white)](#)
